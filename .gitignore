@@ -1,3 +1,4 @@
 etc/zebradb/lang_defs/el
 koha-tmpl/intranet-tmpl/prog/el-GR/
 koha-tmpl/opac-tmpl/bootstrap/el-GR/
+koha-tmpl/opac-tmpl/bootstrap/css/opac.css
